@@ -59,7 +59,7 @@ a:hover{
 
 
 .container-1 {
-    padding-top: 100px;
+    padding-top: 150px;
     background-color: #e3fdfd;
     position: relative;
     
@@ -87,9 +87,9 @@ a:hover{
     right: 80%;
     bottom: 250px;
 }
-/*.mountain {
-    height: 70%;
-    width: 100%;} */
+.mountain {
+    width: 100%;
+} 
   
 
 
