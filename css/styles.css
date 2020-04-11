@@ -59,7 +59,7 @@ a:hover{
 
 
 .container-1 {
-    padding-top: 200px;
+    padding-top: 100px;
     background-color: #e3fdfd;
     position: relative;
     
@@ -78,18 +78,16 @@ a:hover{
     width: 10%;
     position: absolute;
     left: 80%;
-    top: 150px;
+    top: 40px;
 }
 
 .cloud2 {
     width: 10%;
     position: absolute;
     right: 80%;
-    bottom: 250px;
+    bottom: 300px;
 }
-/*.mountain {
-    width: 100%;
-} */
+
   
 
 
