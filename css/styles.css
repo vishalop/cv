@@ -88,7 +88,11 @@ a:hover{
     bottom: 300px;
 }
 
-  
+@media (max-width: 596px){
+    img .mountain{
+    width: 90%;
+    }
+}
 
 
 
